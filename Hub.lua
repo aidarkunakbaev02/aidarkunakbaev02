@@ -1,4 +1,3 @@
-
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("Duper tools And scripts V10  ( MADE BY AiDar )", "GreenTheme")
 
@@ -6,14 +5,6 @@ local Window = Library.CreateLib("Duper tools And scripts V10  ( MADE BY AiDar )
 wait(0.1)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Script Executing Please Wait"; 
-Text = "Made by Aidar#2500"; 
-Duration = 5; 
-})
-
-
-wait(10.2)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Script loaded"; 
 Text = "Made by Aidar#2500"; 
 Duration = 5; 
 })
