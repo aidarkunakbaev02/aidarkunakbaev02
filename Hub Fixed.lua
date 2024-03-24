@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("Duper tools And scripts V10  ( MADE BY AiDar )", "GreenTheme")
+local Window = Library.CreateLib("Duper tools And scripts V10  ( MADE BY AiDar )", "DarkTheme")
 
 
 wait(2.0)
